@@ -4,7 +4,7 @@
   "author": "akionii",
   "private": true,
   "dependencies": {
-    "@consumet/extensions": "^1.5.2",
+    "@consumet/extensions": "^1.5.4",
     "@testing-library/jest-dom": "^6.1.4",
     "@testing-library/react": "^14.0.0",
     "@testing-library/user-event": "^14.4.3",
